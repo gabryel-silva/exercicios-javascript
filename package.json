@@ -1,0 +1,8 @@
+{
+  "name": "exercicios-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gabryel-silva/exercicios-javascript.git",
+  "author": "Gabryel Silva <gabryelssantos@gmail.com>",
+  "license": "MIT"
+}
