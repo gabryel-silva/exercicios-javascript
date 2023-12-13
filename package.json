@@ -1,8 +1,18 @@
 {
   "name": "exercicios-javascript",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "repository": "https://github.com/gabryel-silva/exercicios-javascript.git",
-  "author": "Gabryel Silva <gabryelssantos@gmail.com>",
-  "license": "MIT"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.54.0"
+  }
 }

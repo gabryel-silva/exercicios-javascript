@@ -1,1 +1,0 @@
-Soma dos números em uma lista: Crie um programa que some todos os números em uma lista e faça uma interface para que o cliente entre com os dados que seram inseridos na lista, depois mostre a lista com todos os valores e o total da soma.
